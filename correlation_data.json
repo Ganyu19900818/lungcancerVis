@@ -2,7 +2,7 @@
   "correlations": {
     "LUNG_CANCER": {
       "GENDER": 0.05,
-      "AGE": 0.35,
+      "AGE": 0.45,
       "SMOKING": 0.55,
       "YELLOW_FINGERS": 0.45,
       "ANXIETY": 0.25,
